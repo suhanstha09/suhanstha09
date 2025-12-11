@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web development.<br>👯 I’m looking to collaborate on graphics designing.<br>🤝 I’m looking for help with web development.<br>🌱 I’m currently learning web development.<br>💬 Ask me about graphics designing, illustrator.<br>⚡ Fun fact i bought a rtx 4090 a day before 5060 got released.
+🔭 I’m currently working on web development.<br>👯 I’m looking to collaborate on web development and graphics designing.<br>🤝 I’m looking for help with app development.<br>🌱 I’m currently learning app development.<br>💬 Ask me about web development, graphics designing and audio engineering.<br>⚡ Fun fact i bought a rtx 4090 a day before 5060 got released.
 
 
 ## 🌐 Socials:
