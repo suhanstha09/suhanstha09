@@ -11,14 +11,14 @@
 </p>
 
 
-- 🔭 UI/UX & Front-End Developer transitioning into Full-Stack
-- 🌱 Learning backend, databases & system design
-- 👯 Open to UI/UX-focused full-stack collaborations
+- 🔭 Full Stack Developer broadening my prespective into Backend Methods.
+- 🌱 Learning backend, databases & system design.
+- 👯 Open to UI/UX and  Full-stack collaborations
 - 💬 Ask me about UI/UX, frontend, and modern web design
 - ⚡ Fun fact: i bought a rtx 4090 a day before 5060 got release
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/suhanshrestha) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/scubaaa_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suhan.stha09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suhan_stha09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhan-shrestha-9223b1247/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suhan-shrestha-9223b1247/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/suhan_stha09)  [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/suhanshrestha) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/scubaaa_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/suhan.stha09) 
  
 
 # 💻 Tech Stack:
